@@ -1,9 +1,9 @@
 # Week 03 - Membuat Aplikasi Kalkulator Scientific (WPF)
 
-**Nama**: Rocky  
-**NRP**: 5025241...  
-**Mata Kuliah**: PBKK D  
-**Platform**: .NET 8.0 Windows (`net8.0-windows`)  
+**Nama**: Khairan Cherokee Musthofa  
+**NRP**: 5025241215
+**Mata Kuliah**: PBKK C  
+ 
 
 ---
 
