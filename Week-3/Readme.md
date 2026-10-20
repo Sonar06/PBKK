@@ -1,7 +1,7 @@
 # Week 03 - Membuat Aplikasi Kalkulator Scientific (WPF)
 
 **Nama**: Khairan Cherokee Musthofa  
-**NRP**: 5025241215
+**NRP**: 5025241215  
 **Mata Kuliah**: PBKK C  
  
 
