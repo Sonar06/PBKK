@@ -109,7 +109,7 @@ Implementasi blok `try-catch` diterapkan pada `MainWindow.xaml.cs` saat memanggi
 - **Tampilan Operasi Berjalan**: Label operasi menampilkan histori perhitungan secara transparan (contoh: `2 ^ 8 =` atau `10 + √(9)`).
 
 <img width="408" height="605" alt="image" src="https://github.com/user-attachments/assets/9faa355e-01a1-447a-9fe8-a17548d059da" />
-
+<br></br>
 <img width="410" height="607" alt="image" src="https://github.com/user-attachments/assets/0c668130-4560-451c-994b-5006209e7128" />
 
 
