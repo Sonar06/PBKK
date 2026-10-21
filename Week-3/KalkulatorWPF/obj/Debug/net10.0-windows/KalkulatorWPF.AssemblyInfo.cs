@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KalkulatorWPF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fcfcc2f192847c015cf285ca2173da33508e3a81")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2139527b24d178a4ef4019eec8b4356277cfbe3e")]
 [assembly: System.Reflection.AssemblyProductAttribute("KalkulatorWPF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KalkulatorWPF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
