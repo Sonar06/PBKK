@@ -101,14 +101,22 @@ Seluruh interaksi pada antarmuka berjalan tanpa *code-behind event handler* (sep
 
 - **Tampilan Utama & Data Grid**: Tampilan aplikasi menggunakan layout *Rich UI* yang memisahkan Form Input/Statistik di sebelah kiri dan Bar Pencarian serta DataGrid di sebelah kanan.
 
-  *(Tambahkan tangkapan layar tampilan utama di sini)*
+  <img width="1467" height="912" alt="image" src="https://github.com/user-attachments/assets/7f5944e3-2833-4c8e-90a2-d2b5cd8e130f" />
+
 
 - **Pengujian Create & Update Data**: Data baru yang diisikan melalui form akan langsung tersimpan ke database SQLite dan memperbarui statistik serta daftar pada DataGrid.
 
-  *(Tambahkan tangkapan layar tambah/edit data di sini)*
+  <img width="1470" height="912" alt="image" src="https://github.com/user-attachments/assets/85027005-f8e8-42f9-afce-fbac0649235a" />
+  <br></br>
+  saya ada type di nama Musthfoa yang harusnya Musthofa
+  <img width="1460" height="906" alt="image" src="https://github.com/user-attachments/assets/409369a4-36f6-4e26-a559-f888fdda826f" />
 
 - **Pengujian Pencarian & Statistik**: Mengisikan kata kunci pada bar pencarian akan memfilter daftar mahasiswa secara spesifik, serta angka statistik rekapitulasi menyesuaikan secara otomatis.
 
-  *(Tambahkan tangkapan layar fitur cari & statistik di sini)*
+  <img width="1462" height="903" alt="image" src="https://github.com/user-attachments/assets/d42d9090-de38-44b2-830f-8d4a3ea86ae1" />
+  <br></br>
+   saya ingin mencari nama Khairan
+  <img width="1466" height="908" alt="image" src="https://github.com/user-attachments/assets/b122d4d6-3c89-4802-926b-f36ba32bff43" />
 
-[Source Code Repository](https://github.com/Sonar06/PBKK/tree/main/Week-4/StudentManagent)
+
+[Source Code](https://github.com/Sonar06/PBKK/tree/main/Week-4/StudentManagent)
