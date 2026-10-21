@@ -109,9 +109,12 @@ Implementasi blok `try-catch` diterapkan pada `MainWindow.xaml.cs` saat memanggi
 - **Tampilan Operasi Berjalan**: Label operasi menampilkan histori perhitungan secara transparan (contoh: `2 ^ 8 =` atau `10 + √(9)`).
 
 <img width="408" height="605" alt="image" src="https://github.com/user-attachments/assets/9faa355e-01a1-447a-9fe8-a17548d059da" />
+
 <img width="410" height="607" alt="image" src="https://github.com/user-attachments/assets/0c668130-4560-451c-994b-5006209e7128" />
 
 
 - **Tampilan Penanganan Error**: Layar menampilkan kata `Error` dan label histori menginformasikan jenis pesan kesalahan yang terjadi tanpa menghentikan aplikasi (contoh: 10/0, akan menampilkan error karena tidak bilangan tidak bisa dibagi dengan 0).
   
   <img width="408" height="601" alt="image" src="https://github.com/user-attachments/assets/a6f2163c-a6ab-43be-8e46-751ac9dff621" />
+
+  [Source Code](https://github.com/Sonar06/PBKK/tree/main/Week-3/KalkulatorWPF)
